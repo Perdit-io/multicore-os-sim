@@ -4,7 +4,7 @@
 
 ![C++](https://img.shields.io/badge/Language-C++20-blue) ![License](https://img.shields.io/badge/License-MIT-green)
 
-## ⚡ Key Engineering Features
+## Key Engineering Features
 
 ### 1. Thread-Safe Process Scheduling
 Implemented a **deterministic discrete-event simulation** of multicore processing.
@@ -36,7 +36,7 @@ The simulator exposes a shell interface for system administration:
 
 ---
 
-## 🛠️ Build & Run
+## Build & Run
 
 ### Prerequisites
 * C++20 Compatible Compiler (GCC 10+ or Clang)
@@ -67,7 +67,7 @@ g++ -std=c++20 -Wall -Wextra -Werror Main.cpp Kernel.cpp ShellPrompt.cpp Process
 
 ---
 
-## 👥 Credits
+## Credits
 
 * **Angeles, Marc Andrei D.:** Lead Architect (Core Kernel Rewrite, Scheduler, Memory Paging).
 * **Limbag, Daniella Franxene P.:** Initial Prototype & Base Implementation.
