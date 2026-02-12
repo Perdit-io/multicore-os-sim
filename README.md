@@ -2,7 +2,7 @@
 
 **A deterministic multi-core kernel simulator in C++20, architected to emulate mutex-based synchronization, demand paging, and virtual memory mechanics.**
 
-![C++](https://img.shields.io/badge/Language-C++20-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![C++](https://img.shields.io/badge/Language-C++20-blue)
 
 ## Key Engineering Features
 
